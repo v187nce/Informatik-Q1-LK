@@ -1,4 +1,4 @@
-package main.java.de.informatik.dev.include; 
+package de.informatik.dev.include; 
 
 public class BinarySearchTree<ContentType extends ComparableContent<ContentType>> { //ContentType ist auch ein Interface, das hier die Methoden von ComparableContent erben soll.
 

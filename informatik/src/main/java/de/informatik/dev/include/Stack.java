@@ -1,4 +1,4 @@
-package main.java.de.informatik.dev.include; 
+package de.informatik.dev.include; 
 
 public class Stack<ContentType> {
 
